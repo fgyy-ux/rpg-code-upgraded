@@ -1,0 +1,16 @@
+# Godot
+.import/
+.export/
+.export.cfg
+.mono/
+data_*/
+*.translation
+
+# Godot project files that change constantly
+project.godot
+
+# C#
+*.csproj
+*.sln
+*.user
+*.mono
