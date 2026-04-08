@@ -11,5 +11,3 @@ public int XpToLevel = playerLevel * 10;
 
 public bool isDefending = false;
 public float critChance = 0.15f.
-// check
-public bool . . .
