@@ -1,16 +1,10 @@
-# Godot
+# Godot engine junk
 .import/
 .export/
-.export.cfg
 .mono/
-data_*/
-*.translation
-
-# Godot project files that change constantly
-project.godot
-
-# C#
-*.csproj
 *.sln
+*.csproj
 *.user
-*.mono
+
+# Optional, if you don't want project.godot spam
+project.godot
