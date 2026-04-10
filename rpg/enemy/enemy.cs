@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public class new_script : Node
+public partial class new_script : Node
 {
 	// Declare member variables here. Examples:
 	// private int a = 2;
