@@ -6,13 +6,18 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
+config_version=5
 
 [application]
 
 config/name="First RPG Code Upgraded"
 run/main_scene="res://rpg/player/player.tscn"
+config/features=PackedStringArray("4.0", "C#")
 config/icon="res://icon.png"
+
+[dotnet]
+
+project/assembly_name="First RPG Code Upgraded"
 
 [gui]
 
@@ -28,4 +33,5 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_environment="res://default_env.tres"

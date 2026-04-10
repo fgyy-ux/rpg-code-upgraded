@@ -1,0 +1,15 @@
+2a60927148abd1d33b818b535e306557
+::res://::1775832333
+.gitignore.txt::TextFile::-1::1775825721::0::1::::<><>::
+default_env.tres::Environment::1310163519073834823::1775824878::0::1::::<><>::
+icon.png::CompressedTexture2D::8208720732416298222::1775589043::1775824653::1::::<><>::
+new_script.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+::res://rpg/::1775661299
+main.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+::res://rpg/enemy/::1775593083
+enemy.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+::res://rpg/player/::1775824878
+ability.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+leveling_system.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+player.cs::CSharpScript::-1::1775824631::0::1::::<><>::
+player.tscn::PackedScene::5911748349467440911::1775824878::0::1::::<><>::
